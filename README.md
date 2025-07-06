@@ -52,15 +52,7 @@ I love cycling, watching Messi's plays, and improving a bit every day.
 - 📧 Email: mahfuzur3456@gmail.com
 - 💻 [Codeforces](https://codeforces.com/profile/_Mahfuz)
 
----
 
-### ✨ My GitHub Stats
-
-![Mahfuz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
-
----
 
 > “Stay consistent, keep learning, and never give up.”
 
