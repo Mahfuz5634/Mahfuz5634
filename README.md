@@ -2,7 +2,9 @@
 
 🎯 **Competitive Programmer | Fullstack Web Developer**
 
-I love solving algorithmic problems and building clean, practical web applications. Currently, I am improving my coding skills with regular contests while building projects with HTML, CSS, JavaScript, PHP, and MySQL to strengthen my web development journey.
+I love solving algorithmic problems and building clean, practical web applications. Currently, I am improving my coding skills with regular contests while building projects with **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL** to strengthen my web development journey.
+
+---
 
 ### 🚀 Skills
 
@@ -14,6 +16,12 @@ I love solving algorithmic problems and building clean, practical web applicatio
 #### 🌐 Web:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 #### 🛠️ Tools:
