@@ -2,7 +2,7 @@
 
 🎯 **Competitive Programmer | Fullstack Web Developer**
 
-I love solving algorithmic problems and building clean, practical web applications. Currently, I am improving my coding skills with regular contests while building projects with **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL** to strengthen my web development journey.
+I love solving algorithmic problems and building clean, practical web applications. Currently, I am improving my coding skills with regular contests while building projects with **HTML**, **CSS**, **JavaScript**, **React**, and **MySQL** to strengthen my web development journey.
 
 ---
 
