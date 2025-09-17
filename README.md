@@ -8,14 +8,14 @@ Hi there 👋, I'm Mahfuz<br>🎯 Competitive Programmer | Fullstack Web Develop
   ### Leetcode
   <div align="center">
 
-  ![LeetCode Stats](https://leetcode.com/u/MahfuzCSE_53/)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/MahfuzCSE_53?theme=auto&font=baloo&extension=null)
 
   </div>
 
   ### Codeforces
   <div align="center">
 
-  ![Codeforces Stats](https://codeforces.com/profile/_Mahfuz)
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=_Mahfuz)
 
   </div>
 
