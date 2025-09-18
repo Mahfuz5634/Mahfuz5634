@@ -5,19 +5,7 @@ Hi there 👋, I'm Mahfuz<br>🎯 Competitive Programmer | Fullstack Web Develop
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mahfuz-1b0077283/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahfuzur3456@gmail.com) 
 
-  ### Leetcode
-  <div align="center">
-
-  ![LeetCode Stats](https://leetcode.card.workers.dev/MahfuzCSE_53?theme=auto&font=baloo&extension=null)
-
-  </div>
-
-  ### Codeforces
-  <div align="center">
-
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=_Mahfuz)
-
-  </div>
+ 
 
 
 # 💻 Tech Stack:
