@@ -1,5 +1,11 @@
-# 💫 About Me:
-Hi there 👋, I'm Mahfuz<br>🎯 Competitive Programmer | Fullstack Web Developer<br><br>I love solving algorithmic problems and building clean, practical web applications. Currently, I am improving my coding skills with regular contests while building projects with HTML, CSS, JavaScript, React, and MySQL to strengthen my web development journey.
+# Hi there 👋, I’m Mahfuz
+🎯 Competitive Programmer | Fullstack Web Developer
+
+I’m passionate about solving complex algorithmic problems and building clean, user-friendly, and scalable web applications. I regularly participate in programming contests to sharpen my problem-solving skills and deepen my understanding of data structures and algorithms.
+
+On the development side, I’m focused on creating practical projects using HTML, CSS, JavaScript, React, PHP, and MySQL. My current goal is to strengthen my fullstack development skills by working on real-world projects, exploring modern frameworks, and learning best practices for performance and security.
+
+I enjoy continuous learning, taking on new challenges, and collaborating on impactful projects that make a difference. 🚀
 
 
 ## 🌐 Socials:
