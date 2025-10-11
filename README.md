@@ -1,5 +1,3 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-
 # 💫 About Me:
 Hi there 👋, I'm Mahfuz<br>🎯 Competitive Programmer | Fullstack Web Developer<br><br>I love solving algorithmic problems and building clean, practical web applications. Currently, I am improving my coding skills with regular contests while building projects with HTML, CSS, JavaScript, React, and MySQL to strengthen my web development journey.
 
