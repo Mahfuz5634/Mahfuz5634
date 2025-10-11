@@ -3,7 +3,7 @@
 
 I’m passionate about solving complex algorithmic problems and building clean, user-friendly, and scalable web applications. I regularly participate in programming contests to sharpen my problem-solving skills and deepen my understanding of data structures and algorithms.
 
-On the development side, I’m focused on creating practical projects using HTML, CSS, JavaScript, React, PHP, and MySQL. My current goal is to strengthen my fullstack development skills by working on real-world projects, exploring modern frameworks, and learning best practices for performance and security.
+On the development side, I’m focused on creating practical projects using HTML, CSS, JavaScript, React, Go , and MySQL. My current goal is to strengthen my fullstack development skills by working on real-world projects, exploring modern frameworks, and learning best practices for performance and security.
 
 I enjoy continuous learning, taking on new challenges, and collaborating on impactful projects that make a difference. 🚀
 
