@@ -23,6 +23,14 @@ I enjoy continuous learning, taking on new challenges, and collaborating on impa
 ![](https://nirzak-streak-stats.vercel.app/?user=Mahfuz5634&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz5634&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📘 Currently Learning
+- 🚀 **Express.js** – backend API development, routing, middleware  
+- 🗄️ **MongoDB** – NoSQL database, CRUD operations, Mongoose  
+- ⚙️ **Fullstack Workflow** – frontend ↔ backend integration  
+- 🔐 **Authentication & Security Basics** – JWT, hashing  
+- 📡 **REST API Best Practices**
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
