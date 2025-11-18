@@ -1,6 +1,5 @@
 
 ![Your Alt Text](/iko2.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahfuz5634&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
 
 # Hi there 👋, I’m Mahfuz
 🎯 Competitive Programmer | Fullstack Web Developer
@@ -14,6 +13,7 @@ I enjoy continuous learning, taking on new challenges, and collaborating on impa
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mahfuz-1b0077283/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahfuzur3456@gmail.com) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahfuz5634&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
 
  
 
