@@ -2,7 +2,7 @@
 ![Your Alt Text](/iko2.gif)
 
 # Hi there 👋, I’m Mahfuz
-🎯 Competitive Programmer | Fullstack Web Developer
+#🎯 Competitive Programmer | Fullstack Web Developer
 
 I’m passionate about solving complex algorithmic problems and building clean, user-friendly, and scalable web applications. I regularly participate in programming contests to sharpen my problem-solving skills and deepen my understanding of data structures and algorithms.
 
