@@ -2,7 +2,10 @@
 ![Your Alt Text](/iko2.gif)
 
 # Hi there 👋, I’m Mahfuz
-🎯 Competitive Programmer | Fullstack Web Developer
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Competitive+Programmer;Fullstack+Web+Developer;Open+to+Learning" />
+</div>
+
 
 I’m passionate about solving complex algorithmic problems and building clean, user-friendly, and scalable web applications. I regularly participate in programming contests to sharpen my problem-solving skills and deepen my understanding of data structures and algorithms.
 
