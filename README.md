@@ -3,7 +3,8 @@
 
 # Hi there 👋, I’m Mahfuz
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Competitive+Programmer;Fullstack+Web+Developer;Open+to+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=false&vCenter=true&width=500&lines=Competitive+Programmer;Fullstack+Web+Developer;" />
+
 </div>
 
 
