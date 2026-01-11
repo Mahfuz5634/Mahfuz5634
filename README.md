@@ -43,7 +43,11 @@ I enjoy continuous learning, taking on new challenges, and collaborating on impa
 
 
 
+## 📊 GitHub Activity Graph
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahfuz5634&theme=react-dark&hide_border=true&area=true" width="60%" />
+</div>
 
   
 
