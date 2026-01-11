@@ -42,13 +42,15 @@ I enjoy continuous learning, taking on new challenges, and collaborating on impa
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-## 📊 GitHub Stats
+## 📈 GitHub Streak Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahfuz5634&theme=dark&hide_border=false&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahfuz5634&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz5634&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=Mahfuz5634&theme=vision-friendly-dark&hide_border=true"
+    alt="GitHub Streak Stats"
+    width="60%"
+  />
+</p>
 
 
 
