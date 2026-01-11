@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahfuz5634&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzcodes" /> </p>
 
 ![Your Alt Text](/iko2.gif)
 
@@ -17,7 +18,7 @@ I enjoy continuous learning, taking on new challenges, and collaborating on impa
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mahfuz-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahfuzur3456@gmail.com) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahfuz5634&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
+
 
  
 
