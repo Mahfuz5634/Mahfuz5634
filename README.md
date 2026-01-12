@@ -1,4 +1,11 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahfuz5634&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzcodes" /> </p>
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Mahfuz5634&label=Profile%20Views&color=1447e6&style=for-the-badge" 
+    alt="Mahfuz Profile Views" 
+  />
+</p>
+
+
 
 ![Your Alt Text](/iko2.gif)
 
