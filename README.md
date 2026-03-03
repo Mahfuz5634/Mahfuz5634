@@ -5,6 +5,8 @@
   />
 </p>
 
+![Your Alt Text](/iko2.gif)   
+
 # Hi there 👋, I'm Mahfuz
 
 <div align="left">
