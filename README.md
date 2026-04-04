@@ -59,7 +59,7 @@ I enjoy continuous learning, taking on new challenges, and collaborating on impa
 ## 📈 GitHub Streak Stats
 <p align="center">
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=Mahfuz5634&theme=vision-friendly-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Mahfuz5634&theme=vision-friendly-dark&hide_border=true"
     alt="GitHub Streak Stats"
     width="60%"
   />
