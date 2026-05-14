@@ -13,11 +13,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=false&vCenter=true&width=500&lines=Competitive+Programmer;Fullstack+Web+Developer;" />
 </div>
 
-I'm passionate about solving complex algorithmic problems and building clean, user-friendly, and scalable web applications. I regularly participate in programming contests to sharpen my problem-solving skills and deepen my understanding of data structures and algorithms.
+Competitive Programmer & Fullstack Developer passionate about solving complex algorithmic problems and building clean, scalable,and user friendly web applications.Focused on continuous learning, real-world projects, modern development practices, and solving impactful challenges. 
 
-On the development side, I'm focused on creating practical projects using HTML, CSS, JavaScript, React, Go, and MySQL. My current goal is to strengthen my fullstack development skills by working on real-world projects, exploring modern frameworks, and learning best practices for performance and security.
-
-I enjoy continuous learning, taking on new challenges, and collaborating on impactful projects that make a difference. 🚀
 
 ---
 
