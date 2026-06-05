@@ -54,12 +54,9 @@ Competitive Programmer & Fullstack Developer passionate about solving complex al
 ---
 
 ## 📈 GitHub Streak Stats
+
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Mahfuz5634&theme=vision-friendly-dark&hide_border=true"
-    alt="GitHub Streak Stats"
-    width="60%"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahfuz5634&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak Stats" width="60%" />
 </p>
 
 ---
