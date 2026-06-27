@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="/iko2.gif" alt="Banner Animation" width="100%" />
+  <img src="/Developer.gif" alt="Banner Animation" width="100%" />
 
   # Hi there 👋, I'm Mahfuz
 
