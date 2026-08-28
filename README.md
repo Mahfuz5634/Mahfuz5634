@@ -56,7 +56,7 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahfuz5634&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Mahfuz5634&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="48%" />
 </div>
 
 <br>
@@ -64,8 +64,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahfuz5634&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="98%" />
 </div>
-
----
 
 ## 💡 Random Dev Quote
 
